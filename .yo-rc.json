@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "JhSampFkv",
+    "packageName": "hu.iandsszi.jhipster",
+    "packageFolder": "hu/iandsszi/jhipster",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "hu",
+    "languages": [
+      "en",
+      "hu"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.3.1",
+    "jwtSecretKey": "NGM4MzIwN2MzNmVkMmNkMDBlYTM0OTFkZjgwN2ZkYmJkZjM0YTU3OTEwMDI0YWFkNWNmNDZhZjdkZWJmZDIyN2EwMjRlNDZkOWQzZTM5ZjY1ODA5MDZjNDBlOGJlZGJkMWU0MWE1MWM0MzhiNDRhNDFlMDAyZmJjNTkwMzQ4NDE=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Iandsszi",
+  "repository-name": "Jh-Samp-Fkv"
+}
